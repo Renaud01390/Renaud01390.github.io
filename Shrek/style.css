@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "shrek";
+  src: url(fonts/shrek.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  font-family: "shrek";
+}
